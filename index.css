@@ -1,0 +1,75 @@
+#{
+  margin: 0;
+}
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  display: grid;
+}
+header {
+  height: 60px;
+  margin: 0%;
+  padding: 0%;
+}
+h3 {
+  margin: 0;
+}
+span {
+  font-size: 10px;
+  margin-top: 0;
+}
+.hero {
+  display: flex;
+  justify-content: center;
+  margin-top: 0;
+  background-color: rgb(141, 141, 209);
+  color: white;
+  height: 400px;
+}
+.main {
+  margin-top: 80px;
+}
+button {
+  color: rgb(137, 137, 206);
+  border: 0;
+  font-weight: bold;
+  padding: 5px 15px;
+}
+.form {
+  height: 250px;
+  background-color: whitesmoke;
+  margin-top: 0;
+}
+.form1 {
+  height: 120px;
+  text-align: center;
+}
+.form2 {
+  height: 130px;
+  background-color: rgb(120, 120, 196);
+  color: white;
+}
+
+.content {
+  text-align: center;
+  height: 300px;
+  background-color: rgba(0, 0, 0, 0.925);
+  margin-top: 0;
+  color: white;
+}
+.pic {
+  background-color: whitesmoke;
+  height: 150px;
+  margin-top: 0%;
+}
+h3 {
+  /* text-align: center; */
+}
+img {
+  width: 90px;
+  height: 50px;
+  gap: 5px;
+}
+.image {
+  display: flex;
+  justify-content: center;
+}
